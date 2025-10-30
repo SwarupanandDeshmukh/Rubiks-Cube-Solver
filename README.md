@@ -41,7 +41,6 @@ Users can input cube colors, view 3D animations, and observe each solving step i
 |   package-lock.json
 |   package.json
 |   vite.config.js
-
 +---public
 |       vite.svg
 |       
