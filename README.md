@@ -34,19 +34,53 @@ Users can input cube colors, view 3D animations, and observe each solving step i
 
 ---
 
-## Folder Structure
+##📂 Folder Structure
 ```bash
-Rubiks-Cube-Solver/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── FaceSet.jsx
-│   │   └── Face.jsx
-│   ├── style.css
-│   ├── App.jsx
-│   └── main.jsx
-├── index.html
-└── package.json
+|   .gitignore
+|   index.html
+|   package-lock.json
+|   package.json
+|   vite.config.js
+
++---public
+|       vite.svg
+|       
+\---src
+    |   App.css
+    |   App.jsx
+    |   index.css
+    |   main.jsx
+    |   
+    +---assets
+    |       react.svg
+    |       
+    \---components
+        +---face_set
+        |       face.css
+        |       face.jsx
+        |       index.jsx
+        |       style.css
+        |       
+        +---positioning
+        |       3D_axis.png
+        |       cube_position.png
+        |       index.jsx
+        |       style.css
+        |       
+        +---solver
+        |       index.jsx
+        |       script.js
+        |       style.css
+        |       
+        \---start_page
+                3dblue_bg.jpeg
+                3dorange_bg.jpeg
+                3dpink_bg.jpeg
+                cube.css
+                cube.jsx
+                cube_start.png
+                index.jsx
+                style.css  
 ```
 
 
