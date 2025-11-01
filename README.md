@@ -104,7 +104,7 @@ npm run dev
 ---
 
 ## Demo
-Have a look at the solution - https://youtu.be/OY_3BpIYZG8?si=JE6ibJgWwylpntmv
+Try It Yourself: https://my-rubiks-cube-solver.vercel.app/
 
 ---
 
